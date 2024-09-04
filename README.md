@@ -1,13 +1,9 @@
 # 👋 Hola, soy Luis Alfredo Cabrera Sarria
 
-Soy un desarrollador apasionado por la tecnología y la programación, enfocado en crear soluciones eficientes y escalables. A lo largo de mi trayectoria, he trabajado en una amplia variedad de proyectos, desde aplicaciones web hasta sistemas backend complejos, siempre buscando aprender y mejorar.
+Desarrollador apasionado por la tecnología y la programación, enfocado en crear soluciones eficientes y escalables. A lo largo de mi trayectoria, he trabajado en una amplia variedad de proyectos, desde aplicaciones web hasta sistemas backend complejos, siempre buscando aprender y mejorar.
 
 ## 👀 Intereses
 - Desarrollo web (frontend y backend)
-- Seguridad informática y auditoría de contraseñas
-- Migración y despliegue de software en la nube
-- Diseño de interfaces de usuario atractivas y funcionales
-- Automatización de procesos y optimización de sistemas
 
 ## 🌱 Actualmente estoy aprendiendo
 - TypeScript y ESLint para mejorar la calidad de mis proyectos en React
