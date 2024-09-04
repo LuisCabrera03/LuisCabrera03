@@ -4,50 +4,53 @@
 
 ---
 
-Soy un **desarrollador de software** con experiencia en el desarrollo de soluciones tecnológicas eficientes, escalables y seguras. He trabajado con un amplio rango de tecnologías tanto en **frontend** como en **backend**, creando aplicaciones web modernas y optimizando procesos. Mi enfoque está en la **ciberseguridad**, el **desarrollo web completo**, y la **automatización de sistemas**.
+Soy un **desarrollador de software** con un enfoque sólido en la creación de **soluciones tecnológicas escalables**, eficientes y con altos estándares de **seguridad informática**. Con experiencia en **frontend** y **backend**, me especializo en desarrollar aplicaciones web modernas y optimizar procesos empresariales. Mi objetivo es seguir aprendiendo y aplicando las mejores tecnologías disponibles para entregar productos de alta calidad.
+
+![Working](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 ---
 
-## 👨‍💻 **Tecnologías con las que he trabajado**
-| Lenguajes  | Frameworks y Librerías | Herramientas de Diseño |
+## 🛠️ **Tecnologías con las que he trabajado**
+| **Lenguajes**  | **Frameworks & Librerías** | **Diseño & Estilo** |
 |------------|------------------------|------------------------|
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) | ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | | |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) | |
 
 ---
 
-## 🚀 **Proyectos recientes**
-- **[Reservate](https://github.com/LuisCabrera03/Reservate)**: Sistema de reservas y reuniones basado en **MongoDB**, **React** y **Tailwind CSS**.
-- **FYLEC**: Plataforma web avanzada para una ferretería, desplegada en **Heroku** con **PHP** y **Flask** en el backend, usando **React** en el frontend.
-- **Sistema de reseñas de lugares**: Aplicación desarrollada con **React**, **Node.js**, y **MySQL** para permitir que los usuarios califiquen y reseñen lugares visitados.
+## 🚀 **Proyectos destacados**
+- **FYLEC**: Plataforma web avanzada para una ferretería, desarrollada con **React** y desplegada en **Heroku**. Backend construido con **Flask** y **PHP**, integrando seguridad y eficiencia en la gestión de ventas.
+  
+- **Sistema de reseñas de lugares**: Proyecto en **React** con **Node.js** y una base de datos **MySQL**, diseñado para permitir a los usuarios reseñar y calificar diferentes ubicaciones. Implementación de seguridad avanzada para proteger la información de los usuarios.
+
+- **Portal de noticias dinámico**: Aplicación web desarrollada con **PHP** y **Tailwind CSS**, ofreciendo una interfaz moderna y optimizada para dispositivos móviles, integrando bases de datos dinámicas con **MySQL**.
 
 ---
 
 ## 🌱 **Actualmente aprendiendo**
-- **TypeScript**: Mejorando la tipificación de mis proyectos en **React**.
-- **ESLint**: Implementando mejores prácticas de código en mis aplicaciones.
-- **Ciberseguridad**: Estudiando técnicas de auditoría de contraseñas y protección de sistemas web.
+- **TypeScript**: Para mejorar la robustez y escalabilidad de aplicaciones complejas en **React**.
+- **Ciberseguridad**: Desarrollando auditorías de seguridad enfocadas en la protección de datos sensibles y contraseñas.
+- **Automatización de sistemas**: Implementando scripts en **Node.js** para automatizar procesos empresariales, mejorando la eficiencia operativa.
 
 ---
 
-## 💼 **Colaboraciones**
-Estoy buscando oportunidades para colaborar en:
-- **Desarrollo de aplicaciones web** (Frontend y Backend) con tecnologías modernas.
-- **Automatización de procesos** y soluciones basadas en la nube.
-- **Proyectos de ciberseguridad** enfocados en la auditoría y protección de datos.
+## 💼 **Áreas de colaboración**
+Estoy buscando colaborar en proyectos de:
+- **Desarrollo de aplicaciones web completas** con un enfoque moderno y escalable.
+- **Ciberseguridad y auditoría de sistemas**, con énfasis en protección de datos.
+- **Automatización de procesos** utilizando herramientas avanzadas como **Node.js** y **Python**.
 
 ---
 
 ## 📈 **Estadísticas de GitHub**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisCabrera03&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LuisCabrera03&show_icons=true&theme=radical)
 
 ---
 
-## 📊 **Lenguajes más utilizados**
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCabrera03&layout=compact&theme=radical)
+## 📊 **Lenguajes más usados**
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCabrera03&layout=compact&theme=radical)
 
 ---
 
@@ -64,8 +67,8 @@ Estoy buscando oportunidades para colaborar en:
 ---
 
 ## ⚡ **Dato curioso**
-Soy un entusiasta de la tecnología, siempre en busca de nuevas formas de optimizar procesos y aprender nuevas tecnologías. Mi enfoque actual está en **la ciberseguridad** y en **el desarrollo web moderno** utilizando las mejores herramientas disponibles.
+Soy un entusiasta del aprendizaje continuo y la **innovación tecnológica**. Me apasiona descubrir nuevas herramientas y enfoques para mejorar la calidad y seguridad de los proyectos en los que trabajo. **Siempre estoy buscando nuevas oportunidades para crecer y mejorar**.
 
 ---
 
-### **Gracias por visitar mi perfil** 🙌
+### **¡Gracias por visitar mi perfil!** 🎉
