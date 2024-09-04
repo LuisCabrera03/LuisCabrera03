@@ -32,7 +32,7 @@
 ## 🚀 **Proyectos Destacados**
 
 ### 🛠️ **FYLEC**
-- **Descripción**: Plataforma de comercio electrónico diseñada para una ferretería física. Desarrollada con **React**, **Flask** y **PHP**, este proyecto incluye gestión de productos, autenticación segura de usuarios y un sistema de pedidos en tiempo real.
+- **Descripción**: Plataforma de comercio electrónico diseñada para una ferretería física. Desarrollada con **React + Vite**, **Flask** y **Python**, este proyecto incluye gestión de productos, autenticación segura de usuarios y un sistema de pedidos en tiempo real.
   
 ### 🌟 **Sistema de Reseñas de Lugares**
 - **Descripción**: Aplicación web que permite a los usuarios calificar y reseñar lugares. Desarrollada con **React** para el frontend, **Node.js** para el backend y **MySQL** como base de datos. Enfoque en la seguridad de datos y una experiencia de usuario optimizada.
@@ -51,7 +51,6 @@
 ## 🌱 **Áreas de Estudio Actual**
 
 - **TypeScript**: Implementación de tipado estático en **React** para mejorar la escalabilidad y el mantenimiento de aplicaciones web.
-- **Ciberseguridad**: Enfocado en auditorías de sistemas y protección de datos en aplicaciones web.
 - **Automatización de Procesos**: Utilización de **Node.js** para optimizar procesos empresariales y reducir tareas repetitivas.
 
 ---
@@ -59,10 +58,10 @@
 ## 📬 **Contacto**
 
 <div align="center">
-  <a href="mailto:luiscabrera03@example.com">
+  <a href="cabrerasarrialuis@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/luiscabrera03">
+  <a href="[https://www.linkedin.com/in/luiscabrera03](https://www.linkedin.com/in/luisc123/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/LuisCabrera03">
