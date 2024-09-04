@@ -1,6 +1,7 @@
 
 
-![Banner](https://i.ibb.co/mcxSzmt/Banner-de-You-Tube-Gamer-Neon-Violeta-removebg-preview.png)
+<img src="https://github.com/LuisCabrera03/Imagenes/blob/5f8c9e177d16e275f7c5d055293f40a81d8d814a/Banner_de_YouTube_Gamer_Neon_Violeta-removebg-preview.png?raw=true" style="width:100%;">
+
 
 ---
 
