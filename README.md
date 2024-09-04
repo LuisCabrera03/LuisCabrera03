@@ -1,47 +1,58 @@
-# 👋 ¡Hola! Soy **Luis Alfredo Cabrera Sarria** 
+# 👋 ¡Hola! Soy **Luis Alfredo Cabrera Sarria**
 
-Soy un **desarrollador de software** y **aprendiz del Servicio Nacional de Aprendizaje (SENA)**. Me apasiona crear soluciones tecnológicas innovadoras, eficientes y escalables. A lo largo de mi formación, he trabajado en una variedad de proyectos, desde aplicaciones web hasta sistemas backend complejos, con un enfoque en la **optimización de procesos** y **seguridad informática**.
+### Desarrollador de Software | Aprendiz del SENA
 
 ---
 
-![Developer at Work](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+Soy un desarrollador de software apasionado por la **optimización de procesos** y la **seguridad informática**. Actualmente me encuentro aprendiendo y aplicando nuevas tecnologías, siempre en búsqueda de desafíos que me permitan mejorar mis habilidades y contribuir en proyectos de gran impacto.
+
+![Programming](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
 ## 👀 **Áreas de interés**
-- 🔧 **Desarrollo web completo (Frontend y Backend)**
-- 🔐 **Ciberseguridad** y auditoría de sistemas
-- ⚙️ **Automatización de procesos** y optimización de flujos de trabajo
-- 🎨 **Diseño de interfaces** de usuario con foco en la experiencia y funcionalidad
+- **Desarrollo Web Completo** (Frontend y Backend)
+- **Ciberseguridad** y auditoría de sistemas
+- **Automatización de procesos** y optimización de flujos de trabajo
+- **Diseño de interfaces de usuario** con foco en experiencia y funcionalidad
 
 ---
 
 ## 🌱 **Actualmente aprendiendo**
-- 💻 **TypeScript** y **ESLint** para mejorar la robustez de mis proyectos en **React**
-- 🖥️ **Arquitecturas avanzadas** con **Flask** y **Node.js**
-- 🔐 **Mejores prácticas en ciberseguridad**, protegiendo y auditando aplicaciones web
-- 🎨 **Material-UI** para implementar interfaces elegantes y modernas
+- **TypeScript** y **ESLint** para mejorar la robustez en **React**
+- **Flask** y **Node.js** en arquitecturas avanzadas de aplicaciones web
+- **Mejores prácticas en ciberseguridad** para proteger y auditar aplicaciones
+- **Material-UI** para implementar interfaces modernas y atractivas
 
----
-
-![Learning](https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif)
+![Currently Learning](https://img.shields.io/badge/Currently_Learning-TypeScript-blue?style=for-the-badge&logo=typescript)
+![Flask](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)
 
 ---
 
 ## 💼 **Colaboraciones**
-Estoy interesado en colaborar en proyectos que incluyan:
-- ☁️ **Desarrollo de software en la nube**
-- ⚙️ **Automatización de procesos empresariales**
-- 🛡️ **Seguridad en aplicaciones**
+Estoy abierto a colaborar en proyectos relacionados con:
+- **Desarrollo de software en la nube**
+- **Automatización de procesos empresariales**
+- **Ciberseguridad y auditoría de sistemas**
 
-Me gustaría contribuir en iniciativas que me permitan aplicar mis conocimientos en **nuevas tecnologías** y ser parte del **crecimiento de proyectos innovadores**.
+Me entusiasma participar en **proyectos innovadores** que utilicen tecnologías emergentes y me permitan aplicar mis conocimientos en el crecimiento de soluciones eficientes y seguras.
+
+---
+
+## 📈 **Estadísticas de GitHub**
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=LuisCabrera03&show_icons=true&theme=radical)
+
+---
+
+## 📊 **Lenguajes más usados**
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCabrera03&layout=compact&theme=radical)
 
 ---
 
 ## 📫 **Cómo contactarme**
-- ✉️ **Correo electrónico**: luiscabrera03@example.com
-- 🔗 **LinkedIn**: [Luis Cabrera](https://www.linkedin.com/in/luiscabrera03)
-- 💻 **GitHub**: [LuisCabrera03](https://github.com/LuisCabrera03)
+- **Correo electrónico**: luiscabrera03@example.com
+- **LinkedIn**: [Luis Cabrera](https://www.linkedin.com/in/luiscabrera03)
+- **GitHub**: [LuisCabrera03](https://github.com/LuisCabrera03)
 
 ---
 
@@ -51,8 +62,6 @@ Me gustaría contribuir en iniciativas que me permitan aplicar mis conocimientos
 ---
 
 ## ⚡ **Dato curioso**
-Soy un apasionado por las tecnologías emergentes, siempre en búsqueda de **nuevas oportunidades para aprender y mejorar**. Me motiva resolver desafíos de desarrollo con **soluciones creativas**.
+Soy un entusiasta del aprendizaje continuo. Siempre estoy buscando nuevos desafíos y formas creativas de resolver problemas tecnológicos. Mi pasión por la tecnología me lleva a estar en constante evolución.
 
-![Creativity](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-
+![Tech Enthusiast](https://img.shields.io/badge/Tech-Enthusiast-yellow?style=for-the-badge&logo=devpost)
