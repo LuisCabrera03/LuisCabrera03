@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 **Desarrollador de Software**
 
-**Desarrollador de software** especializado en la creación de soluciones tecnológicas escalables y seguras. Actualmente, está enfocado en el aprendizaje de tecnologías modernas y en la implementación de proyectos orientados a la optimización de procesos y la ciberseguridad. Su experiencia incluye el desarrollo web full-stack, automatización de sistemas y el uso de diversas tecnologías para construir aplicaciones eficientes.
+**Desarrollador de software** con conocimientos en la creación de soluciones tecnológicas escalables y seguras. Actualmente, enfocado en el aprendizaje de tecnologías modernas y en la implementación de proyectos orientados a la optimización de procesos. Desarrollador web full-stack, automatización de sistemas y el uso de diversas tecnologías para construir aplicaciones eficientes.
 
 ---
 
